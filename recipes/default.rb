@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: ror-cookbook
+# Cookbook Name:: ridgeofrods
 # Recipe:: default - installs full RoR
 #
 # Copyright (C) 2014 YOUR_NAME

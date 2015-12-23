@@ -1,10 +1,9 @@
-# ror-cookbook-cookbook
-
-TODO: Enter the cookbook description here.
+# ror
+Rigs of Rods cookbook to build and deploy
 
 ## Supported Platforms
 
-TODO: List your supported platforms.
+UBUNTU
 
 ## Attributes
 
@@ -16,7 +15,7 @@ TODO: List your supported platforms.
     <th>Default</th>
   </tr>
   <tr>
-    <td><tt>['ror-cookbook']['bacon']</tt></td>
+    <td><tt>['ridgeofrods']['bacon']</tt></td>
     <td>Boolean</td>
     <td>whether to include bacon</td>
     <td><tt>true</tt></td>
@@ -25,18 +24,18 @@ TODO: List your supported platforms.
 
 ## Usage
 
-### ror-cookbook::default
+### ridgeofrods::default
 
-Include `ror-cookbook` in your node's `run_list`:
+Include `ridgeofrods` in your node's `run_list`:
 
 ```json
 {
   "run_list": [
-    "recipe[ror-cookbook::default]"
+    "recipe[ridgeofrods::default]"
   ]
 }
 ```
 
 ## License and Authors
 
-Author:: YOUR_NAME (<YOUR_EMAIL>)
+Author:: Petr Michalec (epcim@apealive.net)

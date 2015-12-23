@@ -1,8 +1,8 @@
-name             'ror-cookbook'
-maintainer       'YOUR_NAME'
-maintainer_email 'YOUR_EMAIL'
+name             'rigeofrods'
+maintainer       'Petr Michalec'
+maintainer_email 'epcim@apealive.net'
 license          'All rights reserved'
-description      'Installs/Configures ror-cookbook'
-long_description 'Installs/Configures ror-cookbook'
+description      'Installs/Configures ror cookbook'
+long_description 'Installs/Configures ror cookbook'
 version          '0.1.0'
 
